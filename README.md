@@ -51,7 +51,7 @@
 # Commit 
 - to save unadded changes into a single location
 # Fetch 
-- to   
+- downloads commits, files, and refs from a remote repository into your local repository
 # Git 
 - command line tool which interacts with GitHub, and allows users to Collaborate on code 
 # GitHub
