@@ -1,8 +1,8 @@
 # A03
 # Step 1
-# Create Github account
+# Create Github account (https://github.com/join)
 # Step 2
-# Download Git if not already pre-installed
+# Download Git if not already pre-installed (https://git-scm.com/downloads) and download Webstorm (https://www.jetbrains.com/student/)
 # Step 3
 # Connect github account with Webstorm
 # In Webstorm access your system preferences and select Version control Git
@@ -68,3 +68,7 @@
 - online / on a server / not tangible 
 # Repository 
 - similar to a folder on the computer, can hold all folders etc for a code project 
+
+# References 
+- https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+- NJIT Intro to Github PPT
