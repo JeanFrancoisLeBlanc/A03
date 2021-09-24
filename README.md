@@ -42,3 +42,29 @@
 # Step 14 
 # Check your Github pages by copying the Github.io URL into a browser 
 # Post the URL into Moodle with your Github account URL 
+
+# GLOSSARY
+# Branch 
+- A separate version of a repository meant to be used for feature development
+# Clone 
+- to download a copy of a repository
+# Commit 
+- to save unadded changes into a single location
+# Fetch 
+- to   
+# Git 
+- command line tool which interacts with GitHub, and allows users to Collaborate on code 
+# GitHub
+- online remote repository 
+# Merge 
+- join branches into a single branch 
+# Merge conflict 
+- when an issue arises when a user tries to merge branches, user needs to chose which conflicting code pieces to keep
+# Push 
+- to send a commit from local repository to remote repository 
+# Pull
+- to receive most recent commits from remote repository 
+# Remote 
+- online / on a server / not tangible 
+# Repository 
+- similar to a folder on the computer, can hold all folders etc for a code project 
